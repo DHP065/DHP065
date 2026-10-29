@@ -99,11 +99,10 @@ A responsive gaming platform with game discovery, REST API integration, search a
 
 ---
 
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DHP065&show_icons=true&theme=tokyonight&hide_border=true" alt="Devansh's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHP065&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=DHP065&show_icons=true&theme=tokyonight&hide_border=true" alt="Devansh's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DHP065&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 ---
