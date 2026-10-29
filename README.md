@@ -99,22 +99,6 @@ A responsive gaming platform with game discovery, REST API integration, search a
 
 ---
 
-## 📜 Certifications
-
-- **Data Structures and Algorithms** — Coursera (2026)
-- **Foundation Course on Green Skills and Artificial Intelligence** — Skills4Future (2025)
-- **Excel Skills Job Simulation** — Forage (2024)
-
----
-
-## 🤝 Leadership & Activities
-
-- 🎨 **Design Co-Head** — ISTE
-- 🧩 **Creative Team Member** — CSESA
-- 🎪 Helped organize and run **7+ campus-wide events**.
-- 🎓 Assisted the Training & Placement Office with placement activities.
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
